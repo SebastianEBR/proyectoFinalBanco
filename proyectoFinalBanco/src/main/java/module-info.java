@@ -6,4 +6,6 @@ module org.uniquindio.edu.co.poo.proyectofinalbanco {
 
     opens org.uniquindio.edu.co.poo.proyectofinalbanco to javafx.fxml;
     exports org.uniquindio.edu.co.poo.proyectofinalbanco;
+    exports org.uniquindio.edu.co.poo.proyectofinalbanco.app;
+    opens org.uniquindio.edu.co.poo.proyectofinalbanco.app to javafx.fxml;
 }
