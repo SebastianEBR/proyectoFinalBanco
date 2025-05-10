@@ -23,3 +23,4 @@ public class HelloApplication extends Application {
 }
 
 //proyecto
+// ya podemos trbajar aca todos
